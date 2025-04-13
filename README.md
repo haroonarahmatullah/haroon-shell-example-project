@@ -1,2 +1,2 @@
-# haroon-sheel-example-project
+# haroon-shell-example-project
 Shell scripting example project
